@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hemraj-Suthar, a passionate full-stack developer with expertise in JavaScript, ES6, HTML, CSS, Node.js, MongoDB, and MySQL. With 6 months of experience in the field,
+- 👋 Hi, I’m @Hemraj Suthar, a passionate full-stack developer and Software Engineer with expertise in JavaScript, ES6, HTML, CSS, Node.js, Express.js, React.js, Tailwind CSS, MongoDB and MySQL.
 -  I thrive on crafting robust and scalable web applications that deliver seamless user experiences.
 - 💻 On the frontend, I specialize in creating elegant and responsive user interfaces using modern web technologies like HTML5, CSS3, and JavaScript, leveraging the power of ES6
  features and frameworks such as React.js.
